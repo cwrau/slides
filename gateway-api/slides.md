@@ -20,14 +20,11 @@ defaults:
 ---
 
 # Gateway API in Real Life
+
 Architecture, Upsides and Shortcomings
 
 ---
-src: ./slides/01-intro/01-title.md
----
-
----
-src: ./slides/01-intro/02-why.md
+src: ./slides/01-intro/01-why.md
 ---
 
 ---
@@ -54,13 +51,13 @@ src: ./slides/03-architecture/03-workflow.md
 src: ./slides/04-implementations/01-overview.md
 ---
 
----
-src: ./slides/04-implementations/02-controllers.md
----
+<!-- --- -->
+<!--  -->
+<!-- ## src: ./slides/04-implementations/02-controllers.md -->
 
----
-src: ./slides/04-implementations/03-responsibilities.md
----
+<!-- --- -->
+<!-- src: ./slides/04-implementations/03-responsibilities.md -->
+<!-- --- -->
 
 ---
 src: ./slides/05-use-cases/01-scenarios.md
@@ -76,12 +73,12 @@ src: ./slides/07-shortcomings/01-overview.md
 
 ---
 src: ./slides/08-comparison/01-rewrites.md
----
 
----
-src: ./slides/09-troubleshooting/01-common-issues.md
----
-
----
-src: ./slides/09-troubleshooting/02-resolution-steps.md
---- 
+<!--  -->
+<!-- --- -->
+<!-- src: ./slides/09-troubleshooting/01-common-issues.md -->
+<!-- --- -->
+<!--  -->
+<!-- --- -->
+<!-- src: ./slides/09-troubleshooting/02-resolution-steps.md -->
+<!-- ---  -->

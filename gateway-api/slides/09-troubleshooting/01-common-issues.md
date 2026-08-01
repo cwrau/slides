@@ -48,10 +48,8 @@ layoutClass: gap-4
 
 - ### Controller Logs
   ```bash
-  kubectl logs -n gateway-system \
-    -l app=gateway-controller
-  kubectl get events --field-selector \
-    type=Warning
+  kubectl logs -n gateway-system  -l app=gateway-controller
+  kubectl get events --field-selector type=Warning
   ```
 
 </v-click>
